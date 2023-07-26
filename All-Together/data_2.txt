@@ -1,0 +1,1446 @@
+Orientation 16.0352
+Ratio 1.37493
+Eigenvec [0.961092, 0.276228]
+Eigenval 689.667
+Eigenvec [-0.276228, 0.961092]
+Eigenval 501.602
+Orientation 32.7441
+Ratio 1.02904
+Eigenvec [0.841094, 0.540888]
+Eigenval 450.368
+Eigenvec [-0.540888, 0.841094]
+Eigenval 437.657
+Orientation 78.4665
+Ratio 1.6438
+Eigenvec [0.19994, 0.979808]
+Eigenval 432.706
+Eigenvec [0.979808, -0.19994]
+Eigenval 263.235
+Orientation 52.611
+Ratio 6.59325
+Eigenvec [0.607224, 0.794531]
+Eigenval 3027.73
+Eigenvec [0.794531, -0.607224]
+Eigenval 459.216
+Orientation 88.0524
+Ratio 1.45084
+Eigenvec [0.033986, 0.999422]
+Eigenval 431.717
+Eigenvec [0.999422, -0.033986]
+Eigenval 297.564
+Orientation 100.043
+Ratio 1.85121
+Eigenvec [-0.174382, 0.984678]
+Eigenval 571.924
+Eigenvec [0.984678, 0.174382]
+Eigenval 308.946
+Orientation 105.895
+Ratio 1.12881
+Eigenvec [-0.273876, 0.961765]
+Eigenval 304.513
+Eigenvec [0.961765, 0.273876]
+Eigenval 269.765
+Orientation 92.1433
+Ratio 4.01419
+Eigenvec [-0.0373991, 0.9993]
+Eigenval 701.606
+Eigenvec [0.9993, 0.0373991]
+Eigenval 174.781
+Orientation 93.8091
+Ratio 1.83858
+Eigenvec [-0.0664322, 0.997791]
+Eigenval 334.838
+Eigenvec [0.997791, 0.0664322]
+Eigenval 182.118
+Orientation -44.6527
+Ratio 2.93132
+Eigenvec [0.71138, -0.702808]
+Eigenval 2727.63
+Eigenvec [0.702808, 0.71138]
+Eigenval 930.513
+Orientation 124.007
+Ratio 1.5429
+Eigenvec [-0.559296, 0.828968]
+Eigenval 1843.92
+Eigenvec [0.828968, 0.559296]
+Eigenval 1195.1
+Orientation -16.0433
+Ratio 1.48719
+Eigenvec [0.961053, -0.276363]
+Eigenval 689.576
+Eigenvec [0.276363, 0.961053]
+Eigenval 463.676
+Orientation 92.0635
+Ratio 3.44478
+Eigenvec [-0.0360075, 0.999352]
+Eigenval 545.188
+Eigenvec [0.999352, 0.0360075]
+Eigenval 158.265
+Orientation 71.3547
+Ratio 2.08277
+Eigenvec [0.319708, 0.947516]
+Eigenval 803.858
+Eigenvec [0.947516, -0.319708]
+Eigenval 385.956
+Orientation 104.424
+Ratio 1.65042
+Eigenvec [-0.249093, 0.96848]
+Eigenval 33.5915
+Eigenvec [0.96848, 0.249093]
+Eigenval 20.3533
+Orientation -19.0167
+Ratio 1.24211
+Eigenvec [0.945424, -0.325843]
+Eigenval 511.626
+Eigenvec [0.325843, 0.945424]
+Eigenval 411.902
+Orientation 58.6528
+Ratio 1.20141
+Eigenvec [0.520223, 0.854031]
+Eigenval 344.669
+Eigenvec [0.854031, -0.520223]
+Eigenval 286.886
+Orientation 120.818
+Ratio 1.8839
+Eigenvec [-0.51232, 0.858795]
+Eigenval 2833.26
+Eigenvec [0.858795, 0.51232]
+Eigenval 1503.93
+Orientation 88.7102
+Ratio 1.82424
+Eigenvec [0.0225097, 0.999747]
+Eigenval 415.274
+Eigenvec [0.999747, -0.0225097]
+Eigenval 227.642
+Orientation 45.9849
+Ratio 1.4397
+Eigenvec [0.694847, 0.719157]
+Eigenval 350
+Eigenvec [0.719157, -0.694847]
+Eigenval 243.107
+Orientation 6.10798
+Ratio 1.33383
+Eigenvec [0.994323, 0.106402]
+Eigenval 963.186
+Eigenvec [-0.106402, 0.994323]
+Eigenval 722.12
+Orientation 98.345
+Ratio 1.73559
+Eigenvec [-0.145134, 0.989412]
+Eigenval 561.534
+Eigenvec [0.989412, 0.145134]
+Eigenval 323.54
+Orientation -40.4097
+Ratio 1.23781
+Eigenvec [0.761428, -0.648249]
+Eigenval 351.482
+Eigenvec [0.648249, 0.761428]
+Eigenval 283.955
+Orientation 103.703
+Ratio 3.27006
+Eigenvec [-0.236895, 0.971535]
+Eigenval 2992.49
+Eigenvec [0.971535, 0.236895]
+Eigenval 915.118
+Orientation 126.307
+Ratio 4.80987
+Eigenvec [-0.592107, 0.805859]
+Eigenval 1531.77
+Eigenvec [0.805859, 0.592107]
+Eigenval 318.463
+Orientation -25.5947
+Ratio 1.24131
+Eigenvec [0.901873, -0.432002]
+Eigenval 2658.37
+Eigenvec [0.432002, 0.901873]
+Eigenval 2141.59
+Orientation 91.6929
+Ratio 5.70098
+Eigenvec [-0.0295426, 0.999564]
+Eigenval 2297.81
+Eigenvec [0.999564, 0.0295426]
+Eigenval 403.054
+Orientation 131.099
+Ratio 1.42558
+Eigenvec [-0.657367, 0.753571]
+Eigenval 651.922
+Eigenvec [0.753571, 0.657367]
+Eigenval 457.302
+Orientation 94.9323
+Ratio 2.33857
+Eigenvec [-0.0859779, 0.996297]
+Eigenval 418.259
+Eigenvec [0.996297, 0.0859779]
+Eigenval 178.853
+Orientation 112.23
+Ratio 1.45102
+Eigenvec [-0.378331, 0.92567]
+Eigenval 6439.24
+Eigenvec [0.92567, 0.378331]
+Eigenval 4437.73
+Orientation 8.54205
+Ratio 1.68397
+Eigenvec [0.988907, 0.148535]
+Eigenval 493.028
+Eigenvec [-0.148535, 0.988907]
+Eigenval 292.778
+Orientation 114.46
+Ratio 3.53155
+Eigenvec [-0.41405, 0.910254]
+Eigenval 657.894
+Eigenvec [0.910254, 0.41405]
+Eigenval 186.29
+Orientation 114.018
+Ratio 3.51825
+Eigenvec [-0.407023, 0.913418]
+Eigenval 594.566
+Eigenvec [0.913418, 0.407023]
+Eigenval 168.995
+Orientation -37.3036
+Ratio 2.19848
+Eigenvec [0.795436, -0.606038]
+Eigenval 1521.58
+Eigenvec [0.606038, 0.795436]
+Eigenval 692.105
+Orientation -17.4945
+Ratio 1.26161
+Eigenvec [0.953746, -0.300613]
+Eigenval 486.085
+Eigenvec [0.300613, 0.953746]
+Eigenval 385.29
+Orientation -18.4621
+Ratio 1.09814
+Eigenvec [0.948533, -0.316677]
+Eigenval 528.059
+Eigenvec [0.316677, 0.948533]
+Eigenval 480.868
+Orientation 50.1187
+Ratio 7.75025
+Eigenvec [0.6412, 0.767374]
+Eigenval 2987.11
+Eigenvec [0.767374, -0.6412]
+Eigenval 385.42
+Orientation 57.5804
+Ratio 1.61991
+Eigenvec [0.536115, 0.844145]
+Eigenval 9.73631
+Eigenvec [0.844145, -0.536115]
+Eigenval 6.01038
+Orientation 116.842
+Ratio 1.68267
+Eigenvec [-0.451536, 0.892253]
+Eigenval 2839.33
+Eigenvec [0.892253, 0.451536]
+Eigenval 1687.39
+Orientation 66.4576
+Ratio 1.27028
+Eigenvec [0.399428, 0.916765]
+Eigenval 422.105
+Eigenvec [0.916765, -0.399428]
+Eigenval 332.294
+Orientation 83.6505
+Ratio 1.24205
+Eigenvec [0.110592, 0.993866]
+Eigenval 351.805
+Eigenvec [0.993866, -0.110592]
+Eigenval 283.246
+Orientation 91.2721
+Ratio 1.94871
+Eigenvec [-0.0222001, 0.999754]
+Eigenval 573.952
+Eigenvec [0.999754, 0.0222001]
+Eigenval 294.53
+Orientation 129.047
+Ratio 1.13088
+Eigenvec [-0.629953, 0.776634]
+Eigenval 290.9
+Eigenvec [0.776634, 0.629953]
+Eigenval 257.232
+Orientation 99.3358
+Ratio 1.96118
+Eigenvec [-0.16222, 0.986755]
+Eigenval 618.496
+Eigenvec [0.986755, 0.16222]
+Eigenval 315.369
+Orientation 119.634
+Ratio 1.24996
+Eigenvec [-0.494451, 0.869206]
+Eigenval 62.4693
+Eigenvec [0.869206, 0.494451]
+Eigenval 49.9771
+Orientation -18.9176
+Ratio 1.14313
+Eigenvec [0.945986, -0.324208]
+Eigenval 667.67
+Eigenvec [0.324208, 0.945986]
+Eigenval 584.07
+Orientation 126.653
+Ratio 2.70113
+Eigenvec [-0.596971, 0.802262]
+Eigenval 524.585
+Eigenvec [0.802262, 0.596971]
+Eigenval 194.21
+Orientation -30.0137
+Ratio 1.59826
+Eigenvec [0.865905, -0.500208]
+Eigenval 1356.9
+Eigenvec [0.500208, 0.865905]
+Eigenval 848.99
+Orientation -42.918
+Ratio 1.33918
+Eigenvec [0.732329, -0.680951]
+Eigenval 1363.2
+Eigenvec [0.680951, 0.732329]
+Eigenval 1017.94
+Orientation -17.5889
+Ratio 1.72083
+Eigenvec [0.953249, -0.302185]
+Eigenval 75.3731
+Eigenvec [0.302185, 0.953249]
+Eigenval 43.8005
+Orientation 46.6041
+Ratio 8.97599
+Eigenvec [0.687036, 0.726624]
+Eigenval 2623.45
+Eigenvec [0.726624, -0.687036]
+Eigenval 292.274
+Orientation 41.98
+Ratio 3.58583
+Eigenvec [0.743378, 0.668871]
+Eigenval 997.554
+Eigenvec [-0.668871, 0.743378]
+Eigenval 278.193
+Orientation -2.50026
+Ratio 1.26487
+Eigenvec [0.999048, -0.043624]
+Eigenval 2052.69
+Eigenvec [0.043624, 0.999048]
+Eigenval 1622.84
+Orientation 47.5073
+Ratio 4.6233
+Eigenvec [0.675497, 0.737363]
+Eigenval 160.655
+Eigenvec [0.737363, -0.675497]
+Eigenval 34.7491
+Orientation 13.4192
+Ratio 1.69232
+Eigenvec [0.972698, 0.232074]
+Eigenval 534.508
+Eigenvec [-0.232074, 0.972698]
+Eigenval 315.842
+Orientation -37.4883
+Ratio 1.13428
+Eigenvec [0.793478, -0.608599]
+Eigenval 630.967
+Eigenvec [0.608599, 0.793478]
+Eigenval 556.272
+Orientation 7.9462
+Ratio 1.25714
+Eigenvec [0.990398, 0.138243]
+Eigenval 496.218
+Eigenvec [-0.138243, 0.990398]
+Eigenval 394.721
+Orientation -11.376
+Ratio 1.25544
+Eigenvec [0.980354, -0.197247]
+Eigenval 1447.26
+Eigenvec [0.197247, 0.980354]
+Eigenval 1152.79
+Orientation 126.622
+Ratio 1.5353
+Eigenvec [-0.596532, 0.802589]
+Eigenval 621.733
+Eigenvec [0.802589, 0.596532]
+Eigenval 404.959
+Orientation 112.835
+Ratio 1.8809
+Eigenvec [-0.388079, 0.921626]
+Eigenval 374.794
+Eigenvec [0.921626, 0.388079]
+Eigenval 199.263
+Orientation 128.685
+Ratio 2.03366
+Eigenvec [-0.625033, 0.780599]
+Eigenval 1683.09
+Eigenvec [0.780599, 0.625033]
+Eigenval 827.616
+Orientation -8.88876
+Ratio 1.54919
+Eigenvec [0.98799, -0.154517]
+Eigenval 26.3744
+Eigenvec [0.154517, 0.98799]
+Eigenval 17.0246
+Orientation -13.3266
+Ratio 1.4882
+Eigenvec [0.973072, -0.230502]
+Eigenval 1448.65
+Eigenvec [0.230502, 0.973072]
+Eigenval 973.429
+Orientation -35.4424
+Ratio 1.37758
+Eigenvec [0.814699, -0.579885]
+Eigenval 1426.75
+Eigenvec [0.579885, 0.814699]
+Eigenval 1035.69
+Orientation -19.0922
+Ratio 1.3719
+Eigenvec [0.944993, -0.327089]
+Eigenval 1948.6
+Eigenvec [0.327089, 0.944993]
+Eigenval 1420.37
+Orientation -32.3721
+Ratio 1.35139
+Eigenvec [0.844588, -0.535416]
+Eigenval 39.5294
+Eigenvec [0.535416, 0.844588]
+Eigenval 29.2509
+Orientation 132.93
+Ratio 3.87202
+Eigenvec [-0.681098, 0.732192]
+Eigenval 8982.21
+Eigenvec [0.732192, 0.681098]
+Eigenval 2319.77
+Orientation 121.174
+Ratio 2.68997
+Eigenvec [-0.517644, 0.855596]
+Eigenval 2757.04
+Eigenvec [0.855596, 0.517644]
+Eigenval 1024.93
+Orientation 24.8552
+Ratio 1.11088
+Eigenvec [0.907373, 0.420326]
+Eigenval 721.344
+Eigenvec [-0.420326, 0.907373]
+Eigenval 649.342
+Orientation 49.355
+Ratio 9.14995
+Eigenvec [0.65137, 0.75876]
+Eigenval 2873.65
+Eigenvec [0.75876, -0.65137]
+Eigenval 314.061
+Orientation 97.8942
+Ratio 1.24762
+Eigenvec [-0.137344, 0.990523]
+Eigenval 1952.06
+Eigenvec [0.990523, 0.137344]
+Eigenval 1564.63
+Orientation 131.587
+Ratio 1.76572
+Eigenvec [-0.66375, 0.747954]
+Eigenval 1829.51
+Eigenvec [0.747954, 0.66375]
+Eigenval 1036.13
+Orientation 34.5704
+Ratio 1.50889
+Eigenvec [0.82343, 0.567418]
+Eigenval 644.61
+Eigenvec [-0.567418, 0.82343]
+Eigenval 427.207
+Orientation -15.3021
+Ratio 1.34897
+Eigenvec [0.964548, -0.263908]
+Eigenval 599.777
+Eigenvec [0.263908, 0.964548]
+Eigenval 444.617
+Orientation 36.1855
+Ratio 1.44278
+Eigenvec [0.80711, 0.590401]
+Eigenval 575.016
+Eigenvec [-0.590401, 0.80711]
+Eigenval 398.548
+Orientation 89.3818
+Ratio 1.27238
+Eigenvec [0.0107903, 0.999942]
+Eigenval 1397.84
+Eigenvec [0.999942, -0.0107903]
+Eigenval 1098.6
+Orientation 127.801
+Ratio 1.2572
+Eigenvec [-0.612926, 0.79014]
+Eigenval 572.135
+Eigenvec [0.79014, 0.612926]
+Eigenval 455.088
+Orientation 119.15
+Ratio 1.99389
+Eigenvec [-0.48709, 0.873352]
+Eigenval 476.767
+Eigenvec [0.873352, 0.48709]
+Eigenval 239.114
+Orientation -21.9537
+Ratio 1.92074
+Eigenvec [0.927486, -0.373858]
+Eigenval 1692.02
+Eigenvec [0.373858, 0.927486]
+Eigenval 880.921
+Orientation -19.6177
+Ratio 1.4129
+Eigenvec [0.941954, -0.335742]
+Eigenval 1611.34
+Eigenvec [0.335742, 0.941954]
+Eigenval 1140.45
+Orientation 48.321
+Ratio 1.7878
+Eigenvec [0.664957, 0.746882]
+Eigenval 1581.54
+Eigenvec [0.746882, -0.664957]
+Eigenval 884.633
+Orientation -31.1017
+Ratio 2.20851
+Eigenvec [0.856252, -0.516559]
+Eigenval 2203.42
+Eigenvec [0.516559, 0.856252]
+Eigenval 997.693
+Orientation 17.2042
+Ratio 1.55558
+Eigenvec [0.955256, 0.295779]
+Eigenval 2.93184
+Eigenvec [-0.295779, 0.955256]
+Eigenval 1.88472
+Orientation -29.3958
+Ratio 2.39544
+Eigenvec [0.87125, -0.49084]
+Eigenval 7221.95
+Eigenvec [0.49084, 0.87125]
+Eigenval 3014.88
+Orientation -23.8574
+Ratio 2.40486
+Eigenvec [0.914555, -0.404462]
+Eigenval 394.485
+Eigenvec [0.404462, 0.914555]
+Eigenval 164.036
+Orientation 60.7863
+Ratio 1.62073
+Eigenvec [0.488068, 0.872806]
+Eigenval 1227.11
+Eigenvec [0.872806, -0.488068]
+Eigenval 757.135
+Orientation 35.1542
+Ratio 1.11545
+Eigenvec [0.817605, 0.57578]
+Eigenval 426.567
+Eigenvec [-0.57578, 0.817605]
+Eigenval 382.418
+Orientation 47.9458
+Ratio 8.28924
+Eigenvec [0.669833, 0.742512]
+Eigenval 2648.87
+Eigenvec [0.742512, -0.669833]
+Eigenval 319.555
+Orientation 42.9095
+Ratio 3.30177
+Eigenvec [0.732431, 0.680842]
+Eigenval 1072.44
+Eigenvec [-0.680842, 0.732431]
+Eigenval 324.806
+Orientation -17.9575
+Ratio 1.55222
+Eigenvec [0.951285, -0.308312]
+Eigenval 1913.87
+Eigenvec [0.308312, 0.951285]
+Eigenval 1232.99
+Orientation -12.4978
+Ratio 1.30827
+Eigenvec [0.976304, -0.216403]
+Eigenval 15.865
+Eigenvec [0.216403, 0.976304]
+Eigenval 12.1267
+Orientation 12.0558
+Ratio 1.27948
+Eigenvec [0.977944, 0.208865]
+Eigenval 646.992
+Eigenvec [-0.208865, 0.977944]
+Eigenval 505.668
+Orientation -11.5877
+Ratio 1.54102
+Eigenvec [0.979618, -0.200868]
+Eigenval 691.595
+Eigenvec [0.200868, 0.979618]
+Eigenval 448.789
+Orientation 26.7899
+Ratio 1.57662
+Eigenvec [0.892665, 0.45072]
+Eigenval 564.599
+Eigenvec [-0.45072, 0.892665]
+Eigenval 358.108
+Orientation -38.4428
+Ratio 1.10142
+Eigenvec [0.783229, -0.621734]
+Eigenval 1348.68
+Eigenvec [0.621734, 0.783229]
+Eigenval 1224.49
+Orientation 133.962
+Ratio 1.34682
+Eigenvec [-0.694177, 0.719804]
+Eigenval 590.577
+Eigenvec [0.719804, 0.694177]
+Eigenval 438.499
+Orientation -14.7538
+Ratio 1.17751
+Eigenvec [0.967029, -0.254665]
+Eigenval 1356.82
+Eigenvec [0.254665, 0.967029]
+Eigenval 1152.28
+Orientation -34.0929
+Ratio 2.04808
+Eigenvec [0.82813, -0.560536]
+Eigenval 3423.88
+Eigenvec [0.560536, 0.82813]
+Eigenval 1671.75
+Orientation 94.7563
+Ratio 1.16703
+Eigenvec [-0.0829183, 0.996556]
+Eigenval 32.128
+Eigenvec [0.996556, 0.0829183]
+Eigenval 27.5298
+Orientation -32.0535
+Ratio 1.57201
+Eigenvec [0.847553, -0.530711]
+Eigenval 1650.56
+Eigenvec [0.530711, 0.847553]
+Eigenval 1049.97
+Orientation 45.0844
+Ratio 1.10912
+Eigenvec [0.706065, 0.708147]
+Eigenval 3089.4
+Eigenvec [0.708147, -0.706065]
+Eigenval 2785.46
+Orientation 10.2499
+Ratio 1.44944
+Eigenvec [0.984041, 0.177943]
+Eigenval 859.699
+Eigenvec [-0.177943, 0.984041]
+Eigenval 593.127
+Orientation 48.2737
+Ratio 8.74419
+Eigenvec [0.665573, 0.746333]
+Eigenval 2731.76
+Eigenvec [0.746333, -0.665573]
+Eigenval 312.408
+Orientation 93.9648
+Ratio 1.26321
+Eigenvec [-0.0691435, 0.997607]
+Eigenval 1898.76
+Eigenvec [0.997607, 0.0691435]
+Eigenval 1503.12
+Orientation -10.825
+Ratio 2.94902
+Eigenvec [0.982205, -0.187811]
+Eigenval 1190.18
+Eigenvec [0.187811, 0.982205]
+Eigenval 403.584
+Orientation -17.3842
+Ratio 1.17394
+Eigenvec [0.954323, -0.298778]
+Eigenval 13.4815
+Eigenvec [0.298778, 0.954323]
+Eigenval 11.484
+Orientation -25.8838
+Ratio 1.46698
+Eigenvec [0.899681, -0.436547]
+Eigenval 1875.89
+Eigenvec [0.436547, 0.899681]
+Eigenval 1278.74
+Orientation 18.1762
+Ratio 1.64328
+Eigenvec [0.950102, 0.311941]
+Eigenval 696.239
+Eigenvec [-0.311941, 0.950102]
+Eigenval 423.688
+Orientation 10.1171
+Ratio 1.40099
+Eigenvec [0.984451, 0.17566]
+Eigenval 665.015
+Eigenvec [-0.17566, 0.984451]
+Eigenval 474.676
+Orientation 37.1857
+Ratio 1.58482
+Eigenvec [0.796681, 0.6044]
+Eigenval 654.863
+Eigenvec [-0.6044, 0.796681]
+Eigenval 413.21
+Orientation -2.19497
+Ratio 1.55427
+Eigenvec [0.999266, -0.0383]
+Eigenval 1726.43
+Eigenvec [0.0383, 0.999266]
+Eigenval 1110.77
+Orientation 90.7214
+Ratio 1.12295
+Eigenvec [-0.012591, 0.999921]
+Eigenval 519.625
+Eigenvec [0.999921, 0.012591]
+Eigenval 462.731
+Orientation 2.92079
+Ratio 2.11699
+Eigenvec [0.998701, 0.0509554]
+Eigenval 954.446
+Eigenvec [-0.0509554, 0.998701]
+Eigenval 450.851
+Orientation 120.729
+Ratio 1.63124
+Eigenvec [-0.510971, 0.859598]
+Eigenval 375.644
+Eigenvec [0.859598, 0.510971]
+Eigenval 230.281
+Orientation 2.4589
+Ratio 1.16203
+Eigenvec [0.999079, 0.0429028]
+Eigenval 1217.13
+Eigenvec [-0.0429028, 0.999079]
+Eigenval 1047.41
+Orientation 89.5476
+Ratio 1.44158
+Eigenvec [0.00789634, 0.999969]
+Eigenval 364.852
+Eigenvec [0.999969, -0.00789634]
+Eigenval 253.092
+Orientation 17.6162
+Ratio 1.30166
+Eigenvec [0.953105, 0.302639]
+Eigenval 1285.74
+Eigenvec [-0.302639, 0.953105]
+Eigenval 987.769
+Orientation -6.93484
+Ratio 1.24343
+Eigenvec [0.992684, -0.12074]
+Eigenval 1245.54
+Eigenvec [0.12074, 0.992684]
+Eigenval 1001.7
+Orientation 38.9416
+Ratio 1.67337
+Eigenvec [0.777787, 0.628527]
+Eigenval 2527.38
+Eigenvec [-0.628527, 0.777787]
+Eigenval 1510.35
+Orientation 127.594
+Ratio 3.74025
+Eigenvec [-0.610062, 0.792354]
+Eigenval 3016.06
+Eigenvec [0.792354, 0.610062]
+Eigenval 806.38
+Orientation -40.6786
+Ratio 1.22762
+Eigenvec [0.758378, -0.651815]
+Eigenval 1407.92
+Eigenvec [0.651815, 0.758378]
+Eigenval 1146.87
+Orientation -39.8659
+Ratio 1.29982
+Eigenvec [0.767547, -0.640993]
+Eigenval 2043.56
+Eigenvec [0.640993, 0.767547]
+Eigenval 1572.19
+Orientation -32.1816
+Ratio 1.68726
+Eigenvec [0.846364, -0.532604]
+Eigenval 4.76547
+Eigenvec [0.532604, 0.846364]
+Eigenval 2.82438
+Orientation -42.0206
+Ratio 2.20299
+Eigenvec [0.742905, -0.669397]
+Eigenval 3840.94
+Eigenvec [0.669397, 0.742905]
+Eigenval 1743.51
+Orientation 37.2455
+Ratio 1.42876
+Eigenvec [0.79605, 0.605231]
+Eigenval 80.4426
+Eigenvec [-0.605231, 0.79605]
+Eigenval 56.3023
+Orientation 62.7843
+Ratio 1.82655
+Eigenvec [0.457342, 0.889291]
+Eigenval 1340.79
+Eigenvec [0.889291, -0.457342]
+Eigenval 734.056
+Orientation -21.9962
+Ratio 1.37779
+Eigenvec [0.927208, -0.374546]
+Eigenval 1869.39
+Eigenvec [0.374546, 0.927208]
+Eigenval 1356.8
+Orientation -35.9069
+Ratio 1.46769
+Eigenvec [0.809971, -0.58647]
+Eigenval 109.131
+Eigenvec [0.58647, 0.809971]
+Eigenval 74.356
+Orientation 17.0885
+Ratio 1.34307
+Eigenvec [0.955852, 0.293849]
+Eigenval 924.27
+Eigenvec [-0.293849, 0.955852]
+Eigenval 688.177
+Orientation 46.832
+Ratio 8.28894
+Eigenvec [0.68414, 0.729351]
+Eigenval 2907.68
+Eigenvec [0.729351, -0.68414]
+Eigenval 350.791
+Orientation -29.5565
+Ratio 1.12002
+Eigenvec [0.86987, -0.493281]
+Eigenval 425.062
+Eigenvec [0.493281, 0.86987]
+Eigenval 379.514
+Orientation 40.868
+Ratio 3.6921
+Eigenvec [0.756219, 0.654318]
+Eigenval 1061.2
+Eigenvec [-0.654318, 0.756219]
+Eigenval 287.425
+Orientation 22.9474
+Ratio 1.17438
+Eigenvec [0.920863, 0.389886]
+Eigenval 712.947
+Eigenvec [-0.389886, 0.920863]
+Eigenval 607.083
+Orientation 20.4709
+Ratio 1.87279
+Eigenvec [0.93685, 0.349731]
+Eigenval 1104.96
+Eigenvec [-0.349731, 0.93685]
+Eigenval 590.008
+Orientation -5.31957
+Ratio 1.46182
+Eigenvec [0.995693, -0.0927106]
+Eigenval 490.166
+Eigenvec [0.0927106, 0.995693]
+Eigenval 335.312
+Orientation 132.397
+Ratio 1.06277
+Eigenvec [-0.674262, 0.738492]
+Eigenval 1311.06
+Eigenvec [0.738492, 0.674262]
+Eigenval 1233.63
+Orientation -3.43454
+Ratio 1.16232
+Eigenvec [0.998204, -0.0599081]
+Eigenval 487.157
+Eigenvec [0.0599081, 0.998204]
+Eigenval 419.124
+Orientation 114.242
+Ratio 1.8036
+Eigenvec [-0.410587, 0.911821]
+Eigenval 393.858
+Eigenvec [0.911821, 0.410587]
+Eigenval 218.373
+Orientation -15.6791
+Ratio 1.42518
+Eigenvec [0.962791, -0.270249]
+Eigenval 1621.04
+Eigenvec [0.270249, 0.962791]
+Eigenval 1137.42
+Orientation -13.1732
+Ratio 1.19292
+Eigenvec [0.973686, -0.227895]
+Eigenval 1136.3
+Eigenvec [0.227895, 0.973686]
+Eigenval 952.537
+Orientation -39.3677
+Ratio 1.83801
+Eigenvec [0.773091, -0.634295]
+Eigenval 1985.51
+Eigenvec [0.634295, 0.773091]
+Eigenval 1080.25
+Orientation -9.13404
+Ratio 1.48632
+Eigenvec [0.98732, -0.158745]
+Eigenval 1697.82
+Eigenvec [0.158745, 0.98732]
+Eigenval 1142.3
+Orientation 65.49
+Ratio 2.15971
+Eigenvec [0.414852, 0.909889]
+Eigenval 1176.82
+Eigenvec [0.909889, -0.414852]
+Eigenval 544.9
+Orientation 121.01
+Ratio 1.012
+Eigenvec [-0.515195, 0.857073]
+Eigenval 873.827
+Eigenvec [0.857073, 0.515195]
+Eigenval 863.465
+Orientation 120.075
+Ratio 1.88621
+Eigenvec [-0.501134, 0.86537]
+Eigenval 93.8495
+Eigenvec [0.86537, 0.501134]
+Eigenval 49.7557
+Orientation -36.7013
+Ratio 1.07742
+Eigenvec [0.801762, -0.597644]
+Eigenval 959.742
+Eigenvec [0.597644, 0.801762]
+Eigenval 890.776
+Orientation 78.5155
+Ratio 2.76385
+Eigenvec [0.199103, 0.979979]
+Eigenval 76.8711
+Eigenvec [0.979979, -0.199103]
+Eigenval 27.813
+Orientation 45.7431
+Ratio 1.20201
+Eigenvec [0.697876, 0.716218]
+Eigenval 814.242
+Eigenvec [0.716218, -0.697876]
+Eigenval 677.4
+Orientation 45.9913
+Ratio 9.08145
+Eigenvec [0.694767, 0.719235]
+Eigenval 2722.63
+Eigenvec [0.719235, -0.694767]
+Eigenval 299.801
+Orientation 37.7412
+Ratio 3.53587
+Eigenvec [0.790783, 0.612096]
+Eigenval 1098.27
+Eigenvec [-0.612096, 0.790783]
+Eigenval 310.607
+Orientation -31.1826
+Ratio 1.54952
+Eigenvec [0.855522, -0.517767]
+Eigenval 2249.09
+Eigenvec [0.517767, 0.855522]
+Eigenval 1451.48
+Orientation -15.5778
+Ratio 1.44263
+Eigenvec [0.963267, -0.268546]
+Eigenval 26.2456
+Eigenvec [0.268546, 0.963267]
+Eigenval 18.1928
+Orientation 11.4578
+Ratio 1.25359
+Eigenvec [0.980071, 0.198646]
+Eigenval 727.884
+Eigenvec [-0.198646, 0.980071]
+Eigenval 580.64
+Orientation -23.9134
+Ratio 1.46189
+Eigenvec [0.914159, -0.405356]
+Eigenval 985.888
+Eigenvec [0.405356, 0.914159]
+Eigenval 674.392
+Orientation -7.89347
+Ratio 1.62643
+Eigenvec [0.990525, -0.137332]
+Eigenval 535.078
+Eigenvec [0.137332, 0.990525]
+Eigenval 328.99
+Orientation 126.583
+Ratio 1.10924
+Eigenvec [-0.595991, 0.802991]
+Eigenval 1670.05
+Eigenvec [0.802991, 0.595991]
+Eigenval 1505.58
+Orientation -9.01487
+Ratio 1.4544
+Eigenvec [0.987648, -0.156691]
+Eigenval 620.576
+Eigenvec [0.156691, 0.987648]
+Eigenval 426.687
+Orientation -2.28948
+Ratio 1.55431
+Eigenvec [0.999202, -0.0399484]
+Eigenval 1568.8
+Eigenvec [0.0399484, 0.999202]
+Eigenval 1009.32
+Orientation -17.1696
+Ratio 1.25421
+Eigenvec [0.955435, -0.295201]
+Eigenval 1415.49
+Eigenvec [0.295201, 0.955435]
+Eigenval 1128.59
+Orientation -24.1887
+Ratio 1.26135
+Eigenvec [0.912201, -0.409743]
+Eigenval 1166.21
+Eigenvec [0.409743, 0.912201]
+Eigenval 924.568
+Orientation -44.1057
+Ratio 2.48042
+Eigenvec [0.718056, -0.695985]
+Eigenval 2872.3
+Eigenvec [0.695985, 0.718056]
+Eigenval 1157.99
+Orientation -38.2317
+Ratio 1.1915
+Eigenvec [0.785514, -0.618844]
+Eigenval 951.644
+Eigenvec [0.618844, 0.785514]
+Eigenval 798.692
+Orientation -30.716
+Ratio 1.91285
+Eigenvec [0.85971, -0.510783]
+Eigenval 1763.16
+Eigenvec [0.510783, 0.85971]
+Eigenval 921.744
+Orientation 112.174
+Ratio 2.11507
+Eigenvec [-0.377428, 0.926039]
+Eigenval 24.8579
+Eigenvec [0.926039, 0.377428]
+Eigenval 11.7527
+Orientation 53.0614
+Ratio 1.57994
+Eigenvec [0.600958, 0.79928]
+Eigenval 999.344
+Eigenvec [0.79928, -0.600958]
+Eigenval 632.521
+Orientation -43.2888
+Ratio 2.02687
+Eigenvec [0.727907, -0.685676]
+Eigenval 2900.31
+Eigenvec [0.685676, 0.727907]
+Eigenval 1430.93
+Orientation 70.1378
+Ratio 1.43881
+Eigenvec [0.33976, 0.940512]
+Eigenval 897.992
+Eigenvec [0.940512, -0.33976]
+Eigenval 624.121
+Orientation 126.557
+Ratio 3.65074
+Eigenvec [-0.595624, 0.803263]
+Eigenval 1445.75
+Eigenvec [0.803263, 0.595624]
+Eigenval 396.015
+Orientation 30.2125
+Ratio 2.38365
+Eigenvec [0.864165, 0.503209]
+Eigenval 39.3439
+Eigenvec [-0.503209, 0.864165]
+Eigenval 16.5057
+Orientation 63.2448
+Ratio 2.43635
+Eigenvec [0.45018, 0.892938]
+Eigenval 1797.24
+Eigenvec [0.892938, -0.45018]
+Eigenval 737.676
+Orientation 103.594
+Ratio 1.26008
+Eigenvec [-0.235036, 0.971987]
+Eigenval 2138.77
+Eigenvec [0.971987, 0.235036]
+Eigenval 1697.34
+Orientation -10.231
+Ratio 1.39524
+Eigenvec [0.9841, -0.177617]
+Eigenval 915.148
+Eigenvec [0.177617, 0.9841]
+Eigenval 655.906
+Orientation 33.9482
+Ratio 1.4989
+Eigenvec [0.829543, 0.558443]
+Eigenval 5.22439
+Eigenvec [-0.558443, 0.829543]
+Eigenval 3.48548
+Orientation 38.386
+Ratio 4.03182
+Eigenvec [0.783845, 0.620956]
+Eigenval 1179.05
+Eigenvec [-0.620956, 0.783845]
+Eigenval 292.436
+Orientation -12.0538
+Ratio 1.28274
+Eigenvec [0.977952, -0.20883]
+Eigenval 2711.29
+Eigenvec [0.20883, 0.977952]
+Eigenval 2113.67
+Orientation -1.49206
+Ratio 1.45296
+Eigenvec [0.999661, -0.0260384]
+Eigenval 715.98
+Eigenvec [0.0260384, 0.999661]
+Eigenval 492.772
+Orientation -36.6335
+Ratio 2.44892
+Eigenvec [0.802469, -0.596694]
+Eigenval 894.862
+Eigenvec [0.596694, 0.802469]
+Eigenval 365.412
+Orientation 17.6928
+Ratio 1.55811
+Eigenvec [0.952699, 0.303914]
+Eigenval 630.738
+Eigenvec [-0.303914, 0.952699]
+Eigenval 404.81
+Orientation 9.64806
+Ratio 1.48661
+Eigenvec [0.985856, 0.167596]
+Eigenval 2083.08
+Eigenvec [-0.167596, 0.985856]
+Eigenval 1401.23
+Orientation -29.1194
+Ratio 1.28157
+Eigenvec [0.873607, -0.486632]
+Eigenval 606.954
+Eigenvec [0.486632, 0.873607]
+Eigenval 473.601
+Orientation -41.2133
+Ratio 1.39284
+Eigenvec [0.752262, -0.658864]
+Eigenval 988.42
+Eigenvec [0.658864, 0.752262]
+Eigenval 709.643
+Orientation -10.9664
+Ratio 1.10766
+Eigenvec [0.981739, -0.190233]
+Eigenval 758.743
+Eigenvec [0.190233, 0.981739]
+Eigenval 684.996
+Orientation -32.0656
+Ratio 1.59735
+Eigenvec [0.847441, -0.53089]
+Eigenval 1749.86
+Eigenvec [0.53089, 0.847441]
+Eigenval 1095.48
+Orientation 77.861
+Ratio 1.40183
+Eigenvec [0.210283, 0.977641]
+Eigenval 36.0644
+Eigenvec [0.977641, -0.210283]
+Eigenval 25.7267
+Orientation -44.8405
+Ratio 2.09841
+Eigenvec [0.709072, -0.705136]
+Eigenval 2716.11
+Eigenvec [0.705136, 0.709072]
+Eigenval 1294.37
+Orientation -31.1471
+Ratio 1.72632
+Eigenvec [0.855842, -0.517237]
+Eigenval 111.052
+Eigenvec [0.517237, 0.855842]
+Eigenval 64.3292
+Orientation 9.95687
+Ratio 1.34963
+Eigenvec [0.984938, 0.172907]
+Eigenval 1580.45
+Eigenvec [-0.172907, 0.984938]
+Eigenval 1171.02
+Orientation 63.238
+Ratio 1.37583
+Eigenvec [0.450285, 0.892885]
+Eigenval 754.001
+Eigenvec [0.892885, -0.450285]
+Eigenval 548.032
+Orientation 130.798
+Ratio 2.80989
+Eigenvec [-0.6534, 0.757013]
+Eigenval 981.682
+Eigenvec [0.757013, 0.6534]
+Eigenval 349.367
+Orientation 131.44
+Ratio 1.75653
+Eigenvec [-0.661841, 0.749644]
+Eigenval 93.4723
+Eigenvec [0.749644, 0.661841]
+Eigenval 53.2141
+Orientation 60.9754
+Ratio 1.33132
+Eigenvec [0.485186, 0.874411]
+Eigenval 880.838
+Eigenvec [0.874411, -0.485186]
+Eigenval 661.625
+Orientation -40.1716
+Ratio 2.63239
+Eigenvec [0.764116, -0.645079]
+Eigenval 4139.5
+Eigenvec [0.645079, 0.764116]
+Eigenval 1572.53
+Orientation 0.698857
+Ratio 1.49512
+Eigenvec [0.999926, 0.012197]
+Eigenval 34.8613
+Eigenvec [-0.012197, 0.999926]
+Eigenval 23.3167
+Orientation 9.47767
+Ratio 1.37176
+Eigenvec [0.98635, 0.164663]
+Eigenval 1532.93
+Eigenvec [-0.164663, 0.98635]
+Eigenval 1117.49
+Orientation -5.91086
+Ratio 1.84032
+Eigenvec [0.994683, -0.102981]
+Eigenval 70.5893
+Eigenvec [0.102981, 0.994683]
+Eigenval 38.3571
+Orientation 32.0372
+Ratio 3.73658
+Eigenvec [0.847704, 0.53047]
+Eigenval 1341.32
+Eigenvec [-0.53047, 0.847704]
+Eigenval 358.97
+Orientation 13.1021
+Ratio 1.60462
+Eigenvec [0.973968, 0.226688]
+Eigenval 1062.32
+Eigenvec [-0.226688, 0.973968]
+Eigenval 662.037
+Orientation -16.5035
+Ratio 1.66872
+Eigenvec [0.958803, -0.284073]
+Eigenval 1212.43
+Eigenvec [0.284073, 0.958803]
+Eigenval 726.568
+Orientation 17.7192
+Ratio 1.53484
+Eigenvec [0.95256, 0.304352]
+Eigenval 547.258
+Eigenvec [-0.304352, 0.95256]
+Eigenval 356.556
+Orientation -7.13891
+Ratio 1.40529
+Eigenvec [0.992248, -0.124275]
+Eigenval 601.381
+Eigenvec [0.124275, 0.992248]
+Eigenval 427.942
+Orientation 36.9265
+Ratio 1.07505
+Eigenvec [0.799407, 0.60079]
+Eigenval 1594.18
+Eigenvec [-0.60079, 0.799407]
+Eigenval 1482.89
+Orientation -0.0823213
+Ratio 1.85399
+Eigenvec [0.999999, -0.00143678]
+Eigenval 10.4931
+Eigenvec [0.00143678, 0.999999]
+Eigenval 5.65971
+Orientation 61.2111
+Ratio 1.10433
+Eigenvec [0.481584, 0.8764]
+Eigenval 608.56
+Eigenvec [0.8764, -0.481584]
+Eigenval 551.065
+Orientation 6.93064
+Ratio 1.63367
+Eigenvec [0.992693, 0.120668]
+Eigenval 865.497
+Eigenvec [-0.120668, 0.992693]
+Eigenval 529.788
+Orientation 45.1282
+Ratio 1.12492
+Eigenvec [0.705522, 0.708688]
+Eigenval 1093.71
+Eigenvec [0.708688, -0.705522]
+Eigenval 972.25
+Orientation -28.053
+Ratio 1.23695
+Eigenvec [0.882513, -0.470288]
+Eigenval 1009.52
+Eigenvec [0.470288, 0.882513]
+Eigenval 816.137
+Orientation 37.6648
+Ratio 1.18196
+Eigenvec [0.791599, 0.611041]
+Eigenval 772.739
+Eigenvec [-0.611041, 0.791599]
+Eigenval 653.778
+Orientation -35.5734
+Ratio 1.45591
+Eigenvec [0.813371, -0.581745]
+Eigenval 1404.82
+Eigenvec [0.581745, 0.813371]
+Eigenval 964.911
+Orientation -28.2136
+Ratio 2.21786
+Eigenvec [0.881191, -0.47276]
+Eigenval 3630.81
+Eigenvec [0.47276, 0.881191]
+Eigenval 1637.08
+Orientation -4.05483
+Ratio 1.54811
+Eigenvec [0.997497, -0.0707111]
+Eigenval 46.6359
+Eigenvec [0.0707111, 0.997497]
+Eigenval 30.1244
+Orientation 29.3801
+Ratio 1.10476
+Eigenvec [0.871384, 0.490602]
+Eigenval 892.574
+Eigenvec [-0.490602, 0.871384]
+Eigenval 807.935
+Orientation 17.0246
+Ratio 1.62779
+Eigenvec [0.956179, 0.292782]
+Eigenval 39.7369
+Eigenvec [-0.292782, 0.956179]
+Eigenval 24.4115
+Orientation 66.4894
+Ratio 2.07366
+Eigenvec [0.398918, 0.916987]
+Eigenval 1241.85
+Eigenvec [0.916987, -0.398918]
+Eigenval 598.87
+Orientation -26.3566
+Ratio 2.11185
+Eigenvec [0.896049, -0.443956]
+Eigenval 4829.03
+Eigenvec [0.443956, 0.896049]
+Eigenval 2286.64
+Orientation 75.8752
+Ratio 4.25212
+Eigenvec [0.244034, 0.969767]
+Eigenval 381.59
+Eigenvec [0.969767, -0.244034]
+Eigenval 89.7412
+Orientation 44.968
+Ratio 1.2582
+Eigenvec [0.707501, 0.706712]
+Eigenval 2141.19
+Eigenvec [-0.706712, 0.707501]
+Eigenval 1701.78
+Orientation 48.2459
+Ratio 8.22256
+Eigenvec [0.665935, 0.746009]
+Eigenval 2682.12
+Eigenvec [0.746009, -0.665935]
+Eigenval 326.19
+Orientation 90
+Ratio inf
+Eigenvec [0, 1]
+Eigenval 0.25
+Eigenvec [1, 0]
+Eigenval 0
+Orientation -3.76507
+Ratio 1.39765
+Eigenvec [0.997842, -0.0656655]
+Eigenval 2743.39
+Eigenvec [0.0656655, 0.997842]
+Eigenval 1962.86
+Orientation -38.8123
+Ratio 1.46905
+Eigenvec [0.779204, -0.62677]
+Eigenval 66.3413
+Eigenvec [0.62677, 0.779204]
+Eigenval 45.1593
+Orientation 41.2106
+Ratio 4.01913
+Eigenvec [0.752293, 0.658828]
+Eigenval 1125.81
+Eigenvec [-0.658828, 0.752293]
+Eigenval 280.112
+Orientation -9.39042
+Ratio 1.48516
+Eigenvec [0.986599, -0.163161]
+Eigenval 1072.23
+Eigenvec [0.163161, 0.986599]
+Eigenval 721.965
+Orientation 21.2625
+Ratio 1.41544
+Eigenvec [0.931929, 0.362641]
+Eigenval 651.195
+Eigenvec [-0.362641, 0.931929]
+Eigenval 460.064
+Orientation 27.3597
+Ratio 1.50789
+Eigenvec [0.888139, 0.459576]
+Eigenval 623.737
+Eigenvec [-0.459576, 0.888139]
+Eigenval 413.648
+Orientation 8.83403
+Ratio 1.66597
+Eigenvec [0.988137, 0.153573]
+Eigenval 2323.16
+Eigenvec [-0.153573, 0.988137]
+Eigenval 1394.48
+Orientation 49.3127
+Ratio 1.05382
+Eigenvec [0.65193, 0.758279]
+Eigenval 483.795
+Eigenvec [0.758279, -0.65193]
+Eigenval 459.087
+Orientation 11.0278
+Ratio 2.27125
+Eigenvec [0.981534, 0.191285]
+Eigenval 843.973
+Eigenvec [-0.191285, 0.981534]
+Eigenval 371.59
+Orientation -3.40613
+Ratio 1.63089
+Eigenvec [0.998233, -0.0594132]
+Eigenval 1750.23
+Eigenvec [0.0594132, 0.998233]
+Eigenval 1073.17
+Orientation -5.37329
+Ratio 1.67795
+Eigenvec [0.995606, -0.0936442]
+Eigenval 13.3839
+Eigenvec [0.0936442, 0.995606]
+Eigenval 7.97636
+Orientation 76.085
+Ratio 1.11516
+Eigenvec [0.240483, 0.970653]
+Eigenval 1228.61
+Eigenvec [0.970653, -0.240483]
+Eigenval 1101.74
+Orientation -39.7411
+Ratio 1.14869
+Eigenvec [0.768941, -0.63932]
+Eigenval 1241.72
+Eigenvec [0.63932, 0.768941]
+Eigenval 1080.99
+Orientation -3.20564
+Ratio 1.2781
+Eigenvec [0.998435, -0.0559198]
+Eigenval 977.698
+Eigenvec [0.0559198, 0.998435]
+Eigenval 764.96
+Orientation 48.1311
+Ratio 1.09367
+Eigenvec [0.667429, 0.744674]
+Eigenval 636.098
+Eigenvec [0.744674, -0.667429]
+Eigenval 581.616
+Orientation 134.343
+Ratio 1.09425
+Eigenvec [-0.698958, 0.715163]
+Eigenval 19.8508
+Eigenvec [0.715163, 0.698958]
+Eigenval 18.141
+Orientation 67.993
+Ratio 1.15308
+Eigenvec [0.374719, 0.927138]
+Eigenval 632.38
+Eigenvec [0.927138, -0.374719]
+Eigenval 548.425
+Orientation -35.2429
+Ratio 1.10896
+Eigenvec [0.816713, -0.577045]
+Eigenval 10.7835
+Eigenvec [0.577045, 0.816713]
+Eigenval 9.72403
+Orientation 131.034
+Ratio 3.63588
+Eigenvec [-0.656504, 0.754323]
+Eigenval 1543.99
+Eigenvec [0.754323, 0.656504]
+Eigenval 424.654
+Orientation 39.2817
+Ratio 2.64086
+Eigenvec [0.774043, 0.633133]
+Eigenval 398.335
+Eigenvec [-0.633133, 0.774043]
+Eigenval 150.836
+Orientation 69.1373
+Ratio 2.26103
+Eigenvec [0.356129, 0.934437]
+Eigenval 1028.36
+Eigenvec [0.934437, -0.356129]
+Eigenval 454.821
+Orientation -26.8587
+Ratio 2.48778
+Eigenvec [0.892123, -0.451792]
+Eigenval 4594.76
+Eigenvec [0.451792, 0.892123]
+Eigenval 1846.93
+Orientation -35.402
+Ratio 2.11075
+Eigenvec [0.815108, -0.579309]
+Eigenval 385.934
+Eigenvec [0.579309, 0.815108]
+Eigenval 182.842
