@@ -1,5 +1,7 @@
 Selection of Regions of Interest (stars).
 
+![immagine](https://github.com/Roberto888888/Project-Lens-Quality-Assessment/assets/90435131/85c1113c-8c80-42a3-9013-1972e2e1bf51)
+
 It uses a binary image (produced at the previous stage of the program) to find the centroid coordinates of each segment. It uses a function of OpenCV that can find all of the segments in the binary image and for each segment saves the coordinates of the contour and determines the centroid from the contour.
 
 <img src="/3-ROI-Selection/contours.jpg" alt="try"/>
