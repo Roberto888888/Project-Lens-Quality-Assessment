@@ -1,3 +1,7 @@
+https://github.com/Roberto888888/Project-Lens-Quality-Assessment/blob/main/2-Preprocessing/Thresholding/thresholding.jpg
+
+
+
 To select the threshold, the histogram is used to try and identify the sweet spot that separates the background (dark pixels) and the stars (bright pixels).
 
 In the final version of the project you can interactively choose the threshold and see the result before confirming.
