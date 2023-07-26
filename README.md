@@ -1,18 +1,23 @@
-# Project-Lens-Quality-Assessment
+# Project: Star Tracker Lens Quality Assessment
 
 Final project for a course in image analysis I took during my master programme.
 
-Brief description: The goal was to compare the distortion introduced by 2 different lenses (unkown to us) given a few images of star fields acquired with those lenses. The principle was to perform the study by observing the distortion in the stars which ideally should have appeared as dots but due to camera distortion had different shapes.
-Here I have included the description of the project and our final report to see how we approached the problem (I have no time to read through it and make a summary, sorry!).
+---
+Brief description: The goal was to compare 2 different lenses (unkown to us) by observing 2 separate sets of images of star fields acquired with those lenses and a camera system developed at my department (which produces images with a non-conventional format). Stars ideally should appear as dots but due to camera distortion had different shapes and these shapes are what we needed to analyze.
+
+The description of the project is included here.
+
+Also the final report is included.
 
 ---
-Images were provided as binary files of format .UNC (we were given a description of the format of these files). So we had to write code to create images out of these files from scratches.
+Images were provided as binary files of format .UNC. We had a description of how data is organized into these files and we had to write code to create images out of these files from scratches.
 
-The project is not organized as a single program. It's a series of smaller programs that performed various steps in the processing that had to be run manually (I think... It's been a while and I have no time to review everything).
+The overall organization of the code and how it works is described in the report, pp 31-46 (I have no time to make a summary here, sorry!).
 
 ---
-The project is overall meh... Code isn't optimized or well structured and we really didn't have any idea as to how we should've approached the problem and our project supervisor didn't gave us any guidance at all.
-It was a group project. I performed the reading of the images, the entire preprocessing, and the object detection and selection. I also wrote almost 90% of the entire report.
+The project is overall meh... Code isn't optimized and we really didn't have any idea as to how we should've approached the problem and our project supervisor didn't gave us any guidance at all.
+It was a group project. I performed the reading of the images, the entire preprocessing, and the object detection and selection.
+I also wrote almost 90% of the entire report.
 
 The classification of the distortion wasn't done by me and it didn't really work that well. After weeks of scratching our heads without any guidance my group mate had this idea but the theory used wasn't exactly suited for this specific task and it took him forever to develop the code to perform it. By the time he had some running code, we had no time left to find another solution so we handed in anyway (though I didn't want to).
 
