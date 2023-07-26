@@ -6,7 +6,7 @@ Brief description: The goal was to compare the distortion introduced by 2 differ
 Here I have included the description of the project and our final report to see how we approached the problem (I have no time to read through it and make a summary, sorry!).
 
 ---
-Images were provided as binary files (we were given a description of the format of these files). So we had to write code to create images out of these files from scratches.
+Images were provided as binary files of format .UNC (we were given a description of the format of these files). So we had to write code to create images out of these files from scratches.
 
 The project is not organized as a single program. It's a series of smaller programs that performed various steps in the processing that had to be run manually (I think... It's been a while and I have no time to review everything).
 
