@@ -12,7 +12,7 @@ The project is not organized as a single program. It's a series of smaller progr
 
 ---
 The project is overall meh... Code isn't optimized or well structured and we really didn't have any idea as to how we should've approached the problem and our project supervisor didn't gave us any guidance at all.
-It was a group project. I performed the reading of the images, the entire preprocessing, and the object detection and selection.
+It was a group project. I performed the reading of the images, the entire preprocessing, and the object detection and selection. I also wrote almost 90% of the entire report.
 
 The classification of the distortion wasn't done by me and it didn't really work that well. After weeks of scratching our heads without any guidance my group mate had this idea but the theory used wasn't exactly suited for this specific task and it took him forever to develop the code to perform it. By the time he had some running code, we had no time left to find another solution so we handed in anyway (though I didn't want to).
 
