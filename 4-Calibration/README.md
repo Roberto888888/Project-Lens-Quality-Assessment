@@ -4,3 +4,5 @@ We wanted to reject ROIs with multiple object in the same small area and ROIs co
 
 This is a dumb solution because it's a brute check over the entire group of images to determine rejection conditions.
 We didn't have more intelligent ideas to remove unuseable data.
+
+The check for faintness is performed first because it causes the rejection of the higher amount of images so that the check fro multiple objects in a ROI is performed on fewer images.
