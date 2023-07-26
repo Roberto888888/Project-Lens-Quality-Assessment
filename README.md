@@ -12,7 +12,7 @@ Also the final report is included.
 ---
 Images were provided as binary files of format .UNC. We had a description of how data is organized into these files and we had to write code to create images out of these files from scratches.
 
-The overall organization of the code and how it works is described in the report, pp 31-46 (I have no time to make a summary here, sorry!).
+The overall organization of the code and how it works is described in the report, pp 31-46 and the appendices (pp 60-85). I have no time to make a summary here, sorry!.
 
 ---
 The project is overall meh... Code isn't optimized and we really didn't have any idea as to how we should've approached the problem and our project supervisor didn't gave us any guidance at all.
