@@ -14,6 +14,8 @@ Images were provided as binary files of format .UNC. We had a description of how
 
 The overall organization of the code and how it works is described in the report, pp 31-46 and the appendices (pp 60-85). I have no time to make a summary here, sorry!.
 
+In this repository I have posted the sections I have developed in different folders with some data used for and produced by those specific sections. Then I also posted the overall program including all the pieces together.
+
 ---
 The project is overall meh... Code isn't optimized and we really didn't have any idea as to how we should've approached the problem and our project supervisor didn't gave us any guidance at all.
 It was a group project. I performed the reading of the images, the entire preprocessing, and the object detection and selection.
