@@ -1,6 +1,10 @@
 Selection of Regions of Interest (stars).
 
-It uses a binary image (produced at the previous stage of the program) to find the centroid coordinates of each segment. It uses a function of OpenCV that can find all of the segments in the binary image and for each segment saves the coordinates of the contour and determines the centroid from the contour. This function works only if the contour contains at least 5 points so very very small objects are lost.
+It uses a binary image (produced at the previous stage of the program) to find the centroid coordinates of each segment. It uses a function of OpenCV that can find all of the segments in the binary image and for each segment saves the coordinates of the contour and determines the centroid from the contour.
+
+3-ROI-Selection/contours.jpg
+
+This function works only if the contour contains at least 5 points so very very small objects are lost.
 
 The coordinates are used to extract a reasonably small areas from the original image (not the binary image) centered around the centroids.
 
